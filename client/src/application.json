@@ -1,0 +1,14 @@
+{
+  "name": "uktraining",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "e18918cc",
+  "theme": "Anchor",
+  "id": "uktraining",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "admin"
+}
